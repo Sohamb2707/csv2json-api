@@ -1,0 +1,6 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,preferences.language,preferences.hobby
+Rohit,Prasad,35,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,male,English,Cricket
+Amit,Sharma,22,123 MG Road,Shivaji Nagar,Pune,Maharashtra,male,Hindi,Football
+Sneha,Patil,45,9 Green Park,Laxmi Road,Mumbai,Maharashtra,female,Marathi,Reading
+Vikram,Joshi,18,12 Nehru Street,Baner,Pune,Maharashtra,male,English,Coding
+Sunita,Deshmukh,62,88 Hill View,Kothrud,Pune,Maharashtra,female,Hindi,Traveling
